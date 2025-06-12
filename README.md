@@ -1,4 +1,4 @@
-# Comparing PASTA and STRIDE Threat Modeling on Bank of America's Security
+# PASTA and STRIDE Threat Modeling on Bank of America's Security
 Bank of America and other financial institutions face frequent cyberattacks each year, threatening both data integrity and quality of service. STRIDE and PASTA are two widely used threat modeling frameworks that help identify and mitigate these risks, though they differ in efficiency and approach. Comparing these tools is essential to determine the most effective strategy for securing critical systems.
 
 # Background
