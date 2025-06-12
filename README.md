@@ -62,11 +62,11 @@ This Risk/Impact Matrix was created to measure each of the found threats. Each i
 **Risk Impact Matrix for Bank of America**
 <br>
 Banking Application (Impact / Likelihood):
-Accessing application server: 10 (Critical / Unlikely)
+Accessing application server: 10 (Critical / Unlikely)<br>
 Attack on network devices: 10 (Critical / Unlikely)
 <br>
 ATM Systems (Impact / Likelihood):
-Entering OS and/or hard drive: 6 (Moderate / Unlikely)
+Entering OS and/or hard drive: 6 (Moderate / Unlikely)<br>
 Attack on network devices: 5 (Critical / Rare)
 <br>
 <br>
