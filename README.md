@@ -81,3 +81,18 @@ After performing this analysis, both PASTA and STRIDE proved to be valuable tool
 
 **Conclusion**<br>
 PASTA was more effective for modeling threats that impact business operations and customer availability, while STRIDE excelled in addressing threats directly tied to application and ATM functionality.
+
+# OSINT Tools Used
+- Google Dorking
+- GitHub
+- LinkedIn
+- WiGLE.net
+- Shodan.io
+
+# TOOLS AND TECHNOLOGY USED
+- Microsoft Visio
+- Microsoft Azure
+- Microsoft Threat Modeling Tool
+- Kali Linux (Nmap)
+- Wireshark
+- Burp Suite
