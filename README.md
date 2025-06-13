@@ -1,6 +1,8 @@
 # PASTA and STRIDE Threat Modeling on Bank of America's Security
 Bank of America and other financial institutions face frequent cyberattacks each year, threatening both data integrity and quality of service. STRIDE and PASTA are two widely used threat modeling frameworks that help identify and mitigate these risks, though they differ in efficiency and approach. Comparing these tools is essential to determine the most effective strategy for securing critical systems. This is simulated and based on publicly available data, not actual internal systems. 
 
+---
+
 # Background
 Bank of America is known for being one of the most secure banking institutions, serving nearly 67 million customers across 35 countries. Nevertheless, it remains a frequent target of security threats that can jeopardize both its commitments and customer trust. The table below highlights STRIDE and PASTA, two threat modeling frameworks used to identify, categorize, prioritize, and mitigate such threats:
 <br>
@@ -19,6 +21,8 @@ Source: https://radiumhacker.medium.com/threat-modelling-frameworks-sdl-stride-d
 
 Both frameworks use different strategies, leading to varying responses that can impact a company's confidentiality, integrity, and availability. The goal of this project is to analyze Bank of America's security using the PASTA and STRIDE threat modeling tools to compare the effectiveness of each approach.
 
+---
+
 # Approach
 1. Conducted reconnaissance using OSINT tools to gather critical information about Bank of America that could be exploited and to assess potential risk impact.
 2. Modeled the architecture of Bank of America’s banking applications and ATM systems.
@@ -26,6 +30,8 @@ Both frameworks use different strategies, leading to varying responses that can 
 4. Executed controlled attack labs based on findings, using hacking tools to simulate how these threats could target Bank of America’s infrastructure.
 5. Used a Risk and Impact Matrix to rank threats based on severity and likelihood.
 6. Compared and evaluated the results of both threat modeling approaches to determine their effectiveness.
+
+---
 
 # Results
 **Figure 1**: Bank of America’s Banking Application Threat Model
@@ -58,6 +64,8 @@ I focused on the threats to Bank of America and vulnerability tactics I discover
 
 This Risk/Impact Matrix was created to measure each of the found threats. Each impact was measured using stock, security cost, and consumer trends of Bank of America during a breach.
 
+---
+
 # Conclusion
 **Risk Impact Matrix for Bank of America**
 <br>
@@ -82,12 +90,16 @@ After performing this analysis, both PASTA and STRIDE proved to be valuable tool
 **Conclusion**<br>
 PASTA was more effective for modeling threats that impact business operations and customer availability, while STRIDE excelled in addressing threats directly tied to application and ATM functionality.
 
+---
+
 # OSINT Tools Used
 - Google Dorking
 - GitHub
 - LinkedIn
 - WiGLE.net
 - Shodan.io
+
+---
 
 # TOOLS AND TECHNOLOGY USED
 - Microsoft Visio
